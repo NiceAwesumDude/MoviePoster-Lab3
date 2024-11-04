@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#FF416AD3</color>
+
+    <color name="accent">#FF000000</color>
+    <color name="textIcons">#FF000000</color>
+    <color name="textPrimary">#FF000000</color>
+    <color name="ratingActive">#FF000000</color>
+    <color name="ratingInactive">#FF000000</color>
+    <color name="background">#FF000000</color>
+
+</resources>
